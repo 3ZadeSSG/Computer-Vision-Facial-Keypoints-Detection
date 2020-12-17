@@ -7,7 +7,7 @@
 This project focuses on Computer Vision for creating a facial keypoint detection system. 
 * It uses Haar Cascade to detect face boundaries in a RGB image.
 * After that a "Convolutional Neural Network (CNN)" is applied to generate facial keypoint locations. 
-* Finally generate translation methods is used to plot those keypoints into original full resolution image.
+* Finally translation methods are used to plot those keypoints into original full resolution image.
 * `Facial Keypoints Detection Model with GPU Training Support.ipynb` Notebook contains all code from start to end for data visualization, network architecture definition and training, generation of results.
 
 ### Example
