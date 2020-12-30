@@ -77,7 +77,7 @@ All of the data is in the subdirectory `Original Training Notebooks/data`.
  LICENSE: This project is licensed under the terms of the MIT license.
  
  
- # Source Repo:
+ #### Source Repo for starter code:
  
  The project's root repo is : https://github.com/udacity/P1_Facial_Keypoints
  
