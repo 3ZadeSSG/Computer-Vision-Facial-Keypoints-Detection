@@ -73,18 +73,4 @@ All of the data is in the subdirectory `Original Training Notebooks/data`.
      ```
      node app.js 192.168.32.134:8000
      ```
-     
- LICENSE: This project is licensed under the terms of the MIT license.
- 
- 
- #### Source Repo for starter code:
- 
- The project's root repo is : https://github.com/udacity/P1_Facial_Keypoints
- 
- Due to limits of not being able to make a forked repo private, it has to follow these stpes: https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/duplicating-a-repository
- 
- 
- 
- 
- 
-     
+    
